@@ -2,7 +2,7 @@ float x;
 float y;
 
 void setup() {
-  size(400, 600);
+  size(200, 300);
   background(100);
 
   x = random(130, width -130);

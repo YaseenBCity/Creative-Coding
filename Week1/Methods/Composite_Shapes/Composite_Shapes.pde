@@ -3,14 +3,10 @@ color green = color(0, 255, 0);
 color red = color(255, 0, 0);
 color blue = color(0, 0, 255);
 
-
-
-
 void setup() {
   size(400, 400);
   background(backcol);
 }
-
 
 void draw() {
   background(backcol);

@@ -10,7 +10,7 @@ void setup() {
 
 void draw() {
   background(backcol);
-  drawComposite(width/2, height/2, 0.5);
+  drawComposite(width/2, height/2, 0.3);
   drawComposite(100, 200, 1.2);
   drawComposite(50, 300, 0.3);
   drawComposite( 150, height/2 + 100, 1);

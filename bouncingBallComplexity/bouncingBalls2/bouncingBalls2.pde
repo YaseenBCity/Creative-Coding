@@ -1,4 +1,4 @@
-int NBALLS = 10000; // Number of balls are in the sketch (try changing to higher or lower numbers).
+int NBALLS = 1000; // Number of balls are in the sketch (try changing to higher or lower numbers).
 
 Ball[] balls;
 Grid buckets;
